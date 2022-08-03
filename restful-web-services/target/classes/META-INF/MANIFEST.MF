@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: restful-web-services
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: 刘梦晨
+Implementation-Vendor-Id: com.todos.rest.webservices
+Build-Jdk: 1.8.0_131
+Implementation-URL: https://spring.io/projects/spring-boot/restful-web
+ -services
+Created-By: Maven Integration for Eclipse
+
